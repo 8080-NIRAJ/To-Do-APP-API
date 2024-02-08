@@ -17,17 +17,3 @@ This is a simple To-Do List API built using Node.js, Express.js, and Sequelize. 
 - **DELETE /tasks/:id**: Delete a task.
 
 
-todo-list-api/
-│
-├── controllers/
-│ ├── userController.js
-│ └── taskController.js
-│
-├── models/
-│ ├── user.js
-│ ├── task.js
-│ └── database.js
-│
-├── server.js
-│
-└── package.json
